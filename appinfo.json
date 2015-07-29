@@ -1,0 +1,54 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lamaga",
+    "longName": "Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/rbg_face.png",
+                "name": "IMAGE_FACE_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "images/rbg_profile.png",
+                "name": "IMAGE_PROFILE_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "images/rbg_chair.png",
+                "name": "IMAGE_CHAIR_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "images/rbg_bw.png",
+                "name": "IMAGE_BW_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "images/official_scotus_pic.png",
+                "name": "IMAGE_OFFICIAL_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "images/black_white_rbg.png",
+                "name": "IMAGE_RBG_CLASSIC_IDENTIFIER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Watchface",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "07e04556-3c83-45cc-9f35-eb732d96f800",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
